@@ -1,0 +1,119 @@
+<products>
+    <product sr="1">
+       <id>11</id>
+       <name>samsung</name>
+       <unit_price>35000</unit_price>
+       <stock>50</stock>
+       <status>1</status>
+            
+
+    <product sr="2">
+       <id>20</id>
+       <name>htc</name>
+       <unit_price>65300</unit_price>
+       <stock>35</stock>
+       <status>0</status>
+           
+    <product sr="3">
+       <id>20</id>
+       <name>nokia</name>
+       <unit_price>25100</unit_price>
+       <stock>100</stock>
+       <status>1</status>
+           
+
+</products>
+
+
+<stuents>
+   <student sr="1">
+     <id>23</id>
+    <name>
+     <first_name>jhon</first_name>
+     <last_name>carter</last_name>
+      </name>
+      <admission_date>25/12/2015<admission_date>
+       
+
+     <student sr="2">
+     <id>29</id>
+      <name>
+      <first_name>bob</first_name>
+      <last_name>marshal</last_name>
+      </name>
+      <admission_date>23/11/1999<admission_date>
+        
+
+     <student sr="3">
+     <id>35</id>
+     <name>
+     <first_name>clerk</first_name>
+     <last_name>kent</last_name>
+     </name>
+     <admission_date>17/06/2015<admission_date>
+
+        
+
+</students>
+
+
+<employees>
+
+    <employee sr="1">
+   
+      <id>1</id>
+       <name>
+      <first_name>jhon</first_name>
+      <last_name>doe</last_name>
+      </name>
+      <depertment>sales</sales>
+      <salary>20000</salary>
+      <add>
+      <flat></flat>
+      <house>h#38</house>
+      <road>r#3</road>
+      <area>banani</area>
+      <city>dhaka</city>
+      </add>
+      
+         
+
+
+     <employee sr="2">
+   
+      <id>2</id>
+      <name>
+      <first_name>mark</first_name>
+      <last_name>zukarburg</last_name>
+      </name>
+      <depertment>accounts</sales>
+      <salary>12000</salary>
+      <add>
+      <flat>flat#a/1</flat>
+      <house>h#30</house>
+      <road>r#2</road>
+      <area>mirpur</area>
+      <city>dhaka</city>
+      </add>
+      
+        
+
+
+
+     <employee sr="3">
+   
+      <id>3</id>
+      <first_name>ala</first_name>
+      <last_name>voski</last_name>
+      <depertment>human_resource</sales>
+      <salary>30000</salary>
+      <add>
+      <flat></flat>
+      <house>h#38</house>
+      <road>r#3</road>
+      <area>motijeel</area>
+      <city></city>
+      </add>
+       
+         
+</employees>
